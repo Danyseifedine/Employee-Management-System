@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daniseifeddine/Ds-Validator-Toolkit/main/media/logo.png" alt="Logo" width="200">
+</p>
+
+
 # Employee Management System
 
 Welcome to the Employee Management System, a C# application designed to simplify employee management tasks. This application provides a user-friendly interface with features such as user authentication, employee addition, editing, salary adjustments, searching, and secure logout.
